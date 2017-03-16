@@ -1,5 +1,5 @@
 {
-  "name": "ivy-clix",
+  "name": "ivy-cli",
   "version": "1.0.0",
   "description": "Ivy install App",
   "main": "index.js",
