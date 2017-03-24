@@ -30,7 +30,7 @@ if (!commander.args.length) commander.help();
 function installApplication(name) {
     shell.cd(name);
     info('Installing dependencies.');
-    shell.exec('yarn install');
+    shell.exec('npm install');
     success('Installation done.');
     copyEnvFiles();
 }
