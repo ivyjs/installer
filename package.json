@@ -3,6 +3,9 @@
   "version": "1.1.0",
   "description": "Ivy install App",
   "main": "index.js",
+  "keywords": [
+    "ivyjs", "framework", "cli", "ivy", "fast"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ivyjs/installer.git"
